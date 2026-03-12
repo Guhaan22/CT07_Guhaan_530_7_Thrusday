@@ -20,20 +20,37 @@
 # sortedlist = sorted(numbers)
 # print(sortedlist)
       
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
+list1 = [3, 20, 2, 65, 1, 75]
+
+# how to add to the list
+list1.append(25) # how to add a new item to the list
+
+# retrieve the 3rd item
+print(list1[2])
+
+# remove an item from the list?
+del list1[3]
+print(list1)
+
+# loop through the list
+for num in list1:
+    if num > 20:
+        print(num)
+
+
+
+
+
+
+# # loop through every value here and print it out
+
+# for loop to print out values from 0 - 9
+# for i in range(0, 10):
+#     print(i)
+
+### use a while loop, print numbers from 0 - 9
+# number = 0
+# while number != 10:
+#     print(number)
+#     number = number + 1
 
