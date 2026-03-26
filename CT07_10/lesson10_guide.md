@@ -14,12 +14,12 @@ Modify your code to create a window that is 600 in width and
 Hint:
 ???.setup(width=???, height=???)
 
----------------------------------------------------------------
+------------------------f the following commands, create an orange
+turtle and move it in a square pattern in a forever loop:
+    1. turtle.Turtle---------------------------------------
 
 ## Recap 2: Basic Turtle Commands
-Using a selection of the following commands, create an orange
-turtle and move it in a square pattern in a forever loop:
-    1. turtle.Turtle()
+Using a selection o()
     2. .shape()
     3. .fillcolor()
     4. .seth()

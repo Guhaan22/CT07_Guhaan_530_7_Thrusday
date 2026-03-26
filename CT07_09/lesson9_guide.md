@@ -16,6 +16,7 @@ answer:
 4. egg obviously
 5. iT MuSt Be An EgG
 
+
 You may use the following steps as a guide:
 1. Ask user the riddle and store their response in 'userInput'
    variable
